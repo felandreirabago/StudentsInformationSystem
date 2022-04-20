@@ -35,4 +35,4 @@ _Imported Files_
 
 
 
-If downloading the codes for this app, please include the png files. Also, please download and install the Oswald and Bebas Neue font for the layout.
+If downloading the codes for this app, please include the png files. 
