@@ -4,7 +4,7 @@ simple student info system app
 
 **SIMPLE STUDENT INFORMATION SYSTEM**
 
-by _Francis Ann Emmanuel G. Arcamo_
+by _Fel Andrei D. Rabago_
 
 
 
